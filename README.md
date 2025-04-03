@@ -1,7 +1,14 @@
 #  **ZEBRA**
 
 ## 🌟 Overview
-[Zebra](https://zebra-zeta.vercel.app/) is an online coding platform enabling developers to write, run, and share code snippets seamlessly.
+Zebra is an online coding platform enabling developers to write, run, and share code snippets seamlessly.
+
+Demo Link- [https://zebra-zeta.vercel.app/](https://zebra-zeta.vercel.app/)
+
+## Preview
+![Image](https://github.com/user-attachments/assets/768e6465-0fde-4109-b0c0-b6f78d597a74)
+![Image](https://github.com/user-attachments/assets/d3da719e-9567-4af1-8279-92969fe76e4f)
+![Image](https://github.com/user-attachments/assets/cd5c2b4f-477e-4de4-b904-d6c5d978a02e)
 
 ## 🚀 Features
 - **Real-time Coding**: Provides a smooth coding experience, **30% faster** than traditional editors.
